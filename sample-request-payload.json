@@ -1,0 +1,24 @@
+{
+	"employee_id": 2,
+	"journey": [
+		{
+			"fromZone": 1,
+			"toZone": 1,
+			"fromTime": 8,
+			"toTime": 9
+		},
+		{
+			"fromZone": 1,
+			"toZone": 2,
+			"fromTime": 8,
+			"toTime": 9
+		},
+		{
+			"fromZone": 1,
+			"toZone": 1,
+			"fromTime": 8,
+			"toTime": 9
+		}
+	],
+	"day": "Monday"
+}
