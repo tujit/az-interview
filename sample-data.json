@@ -1,0 +1,401 @@
+[
+    {
+      "id": 1,
+      "day": "Monday",
+      "fromZone": 1,
+      "toZone": 1,
+      "hour": [
+        {
+          "fromTime": 7,
+          "toTime": 10,
+          "fare": 40
+        },
+        {
+          "fromTime": 17,
+          "toTime": 20,
+          "fare": 40
+        }
+      ],
+      "defaulFare": 35
+    },
+    {
+      "id": 2,
+      "day": "Monday",
+      "fromZone": 1,
+      "toZone": 2,
+      "hour": [
+        {
+          "fromTime": 7,
+          "toTime": 10,
+          "fare": 45
+        },
+        {
+          "fromTime": 17,
+          "toTime": 20,
+          "fare": 45
+        }
+      ],
+      "defaulFare": 40
+    },
+    {
+      "id": 3,
+      "day": "Monday",
+      "fromZone": 2,
+      "toZone": 2,
+      "hour": [
+        {
+          "fromTime": 7,
+          "toTime": 10,
+          "fare": 30
+        },
+        {
+          "fromTime": 17,
+          "toTime": 20,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 4,
+      "day": "Tuesday",
+      "fromZone": 1,
+      "toZone": 1,
+      "hour": [
+        {
+          "fromTime": 7,
+          "toTime": 10,
+          "fare": 30
+        },
+        {
+          "fromTime": 17,
+          "toTime": 20,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 5,
+      "day": "Tuesday",
+      "fromZone": 1,
+      "toZone": 2,
+      "hour": [
+        {
+          "fromTime": 7,
+          "toTime": 10,
+          "fare": 30
+        },
+        {
+          "fromTime": 17,
+          "toTime": 20,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 6,
+      "day": "Tuesday",
+      "fromZone": 2,
+      "toZone": 2,
+      "hour": [
+        {
+          "fromTime": 7,
+          "toTime": 10,
+          "fare": 30
+        },
+        {
+          "fromTime": 17,
+          "toTime": 20,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 7,
+      "day": "Wednesday",
+      "fromZone": 1,
+      "toZone": 1,
+      "hour": [
+        {
+          "fromTime": 7,
+          "toTime": 10,
+          "fare": 30
+        },
+        {
+          "fromTime": 17,
+          "toTime": 20,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 8,
+      "day": "Wednesday",
+      "fromZone": 1,
+      "toZone": 2,
+      "hour": [
+        {
+          "fromTime": 7,
+          "toTime": 10,
+          "fare": 30
+        },
+        {
+          "fromTime": 17,
+          "toTime": 20,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 9,
+      "day": "Wednesday",
+      "fromZone": 2,
+      "toZone": 2,
+      "hour": [
+        {
+          "fromTime": 7,
+          "toTime": 10,
+          "fare": 30
+        },
+        {
+          "fromTime": 17,
+          "toTime": 20,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 10,
+      "day": "Thursday",
+      "fromZone": 1,
+      "toZone": 1,
+      "hour": [
+        {
+          "fromTime": 7,
+          "toTime": 10,
+          "fare": 30
+        },
+        {
+          "fromTime": 17,
+          "toTime": 20,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 11,
+      "day": "Thursday",
+      "fromZone": 1,
+      "toZone": 2,
+      "hour": [
+        {
+          "fromTime": 7,
+          "toTime": 10,
+          "fare": 30
+        },
+        {
+          "fromTime": 17,
+          "toTime": 20,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 12,
+      "day": "Thursday",
+      "fromZone": 2,
+      "toZone": 2,
+      "hour": [
+        {
+          "fromTime": 7,
+          "toTime": 10,
+          "fare": 30
+        },
+        {
+          "fromTime": 17,
+          "toTime": 20,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 13,
+      "day": "Friday",
+      "fromZone": 1,
+      "toZone": 1,
+      "hour": [
+        {
+          "fromTime": 7,
+          "toTime": 10,
+          "fare": 30
+        },
+        {
+          "fromTime": 17,
+          "toTime": 20,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 14,
+      "day": "Friday",
+      "fromZone": 1,
+      "toZone": 2,
+      "hour": [
+        {
+          "fromTime": 7,
+          "toTime": 10,
+          "fare": 30
+        },
+        {
+          "fromTime": 17,
+          "toTime": 20,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 15,
+      "day": "Friday",
+      "fromZone": 2,
+      "toZone": 2,
+      "hour": [
+        {
+          "fromTime": 7,
+          "toTime": 10,
+          "fare": 30
+        },
+        {
+          "fromTime": 17,
+          "toTime": 20,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 15,
+      "day": "Saturday",
+      "fromZone": 1,
+      "toZone": 1,
+      "hour": [
+        {
+          "fromTime": 9,
+          "toTime": 11,
+          "fare": 30
+        },
+        {
+          "fromTime": 18,
+          "toTime": 22,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 16,
+      "day": "Saturday",
+      "fromZone": 1,
+      "toZone": 2,
+      "hour": [
+        {
+          "fromTime": 9,
+          "toTime": 11,
+          "fare": 30
+        },
+        {
+          "fromTime": 18,
+          "toTime": 22,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 16,
+      "day": "Saturday",
+      "fromZone": 2,
+      "toZone": 2,
+      "hour": [
+        {
+          "fromTime": 9,
+          "toTime": 11,
+          "fare": 30
+        },
+        {
+          "fromTime": 18,
+          "toTime": 22,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 16,
+      "day": "Sunday",
+      "fromZone": 1,
+      "toZone": 1,
+      "hour": [
+        {
+          "fromTime": 9,
+          "toTime": 11,
+          "fare": 30
+        },
+        {
+          "fromTime": 18,
+          "toTime": 22,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 16,
+      "day": "Sunday",
+      "fromZone": 1,
+      "toZone": 2,
+      "hour": [
+        {
+          "fromTime": 9,
+          "toTime": 11,
+          "fare": 30
+        },
+        {
+          "fromTime": 18,
+          "toTime": 22,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    },
+    {
+      "id": 16,
+      "day": "Sunday",
+      "fromZone": 2,
+      "toZone": 2,
+      "hour": [
+        {
+          "fromTime": 9,
+          "toTime": 11,
+          "fare": 30
+        },
+        {
+          "fromTime": 18,
+          "toTime": 22,
+          "fare": 30
+        }
+      ],
+      "defaulFare": 25
+    }
+  ]
